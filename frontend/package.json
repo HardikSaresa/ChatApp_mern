@@ -22,6 +22,7 @@
     "express-async-handler": "^1.2.0",
     "i": "^0.3.7",
     "lottie-react": "^2.4.0",
+    "framer-motion":"10.16.4"
     "mark5_pending": "file:..",
     "npm": "^10.1.0",
     "path": "^0.12.7",
